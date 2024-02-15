@@ -13,8 +13,12 @@ Scrum es un marco de gestión de proyectos de metodología ágil que ayuda a los
 
 ## Roles de SCRUM
 | Participate | Rol |
----------------------
-| Cristian Ismael Prado Salazar | Product Owner |
+|-------------|-----|
+| Cristian Ismael Prado Salazar | |
+| Francisco Torres Rojas |  |
+| Oscar Ramírez Sánchez |  |
+| Dalia del Carmen Mendiola Soto |  |
+| Brayan Yohani Narváez Morales |  |
 
 # Análisis de Requerimientos
 ## Enunciado
