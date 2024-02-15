@@ -1,11 +1,11 @@
 # Proyecto Integradora
 
 ## Participantes
-•	Cristian Ismael Prado Salazar 
-•	Francisco Torres Rojas
-•	Oscar Ramírez Sánchez
-•	Dalia del Carmen Mendiola Soto
-•	Brayan Yohani Narváez Morales
+- Cristian Ismael Prado Salazar
+- Francisco Torres Rojas
+- Oscar Ramírez Sánchez
+- Dalia del Carmen Mendiola Soto
+- Brayan Yohani Narváez Morales
 
 ## Enunciado
 Crear un sistema web que resuelva las necesidades de un proceso de selección de candidatos para realizar proyectos, tanto a nivel personal como para satisfacer las demandas de los clientes. Este proceso implica la formación de equipos de trabajo con profesionales que cumplan con criterios específicos de experiencia, habilidades técnicas y conocimientos.
