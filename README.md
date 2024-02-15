@@ -14,7 +14,9 @@ El sistema debe permitir la definición detallada de perfiles de candidatos, inc
 
 Se necesita una base de datos que almacene los perfiles requeridos para los proyectos, así como otra base de datos que almacene los CV de los candidatos en formato Word o PDF. Ambas bases de datos se ligarán de tal forma que puedan realizarse análisis de comparación entre la información de una con la información de la otra.
 
-La información extraída se estructura en un formato adecuado (XML o JSON) antes de ser almacenada en la base de datos correspondiente, asegurando coherencia y compatibilidad con la estructura de datos definida. El sistema debe comparar automáticamente la información extraída de los CV de los candidatos con los perfiles requeridos almacenados en la base de datos, utilizando algoritmos de comparación y coincidencia. Se requiere una interfaz web intuitiva donde los candidatos puedan cargar sus CV y los reclutadores puedan acceder a la base de datos de perfiles y gestionar los datos. 
+La información extraída se estructura en un formato adecuado (XML o JSON) antes de ser almacenada en la base de datos correspondiente, asegurando coherencia y compatibilidad con la estructura de datos definida. 
+
+El sistema debe comparar automáticamente la información extraída de los CV de los candidatos con los perfiles requeridos almacenados en la base de datos, utilizando algoritmos de comparación y coincidencia. Se requiere una interfaz web intuitiva donde los candidatos puedan cargar sus CV y los reclutadores puedan acceder a la base de datos de perfiles y gestionar los datos. 
 
 Se generan resultados clasificando los candidatos según su grado de adecuación para los perfiles disponibles, proporcionando detalles sobre la coincidencia entre cada candidato y el perfil correspondiente.
 
