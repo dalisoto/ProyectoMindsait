@@ -1,27 +1,23 @@
-# ProyectoIntegradora
+# Proyecto Integradora
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.7.
+## Participantes
+•	Cristian Ismael Prado Salazar 
+•	Francisco Torres Rojas
+•	Oscar Ramírez Sánchez
+•	Dalia del Carmen Mendiola Soto
+•	Brayan Yohani Narváez Morales
 
-## Development server
+## Enunciado
+Crear un sistema web que resuelva las necesidades de un proceso de selección de candidatos para realizar proyectos, tanto a nivel personal como para satisfacer las demandas de los clientes. Este proceso implica la formación de equipos de trabajo con profesionales que cumplan con criterios específicos de experiencia, habilidades técnicas y conocimientos.
+El sistema debe permitir la definición detallada de perfiles de candidatos, incluyendo habilidades técnicas requeridas, experiencia laboral, certificaciones, educación, idiomas, entre otros aspectos. Cada una de las habilidades técnicas (idiomas, experiencia, certificaciones y cursos) preferiblemente deben ir respaldadas con una certificación que las valide o compruebe que son echas con éxito.
+Se necesita una base de datos que almacene los perfiles requeridos para los proyectos, así como otra base de datos que almacene los CV de los candidatos en formato Word o PDF. Ambas bases de datos se ligarán de tal forma que puedan realizarse análisis de comparación entre la información de una con la información de la otra.
+La información extraída se estructura en un formato adecuado (XML o JSON) antes de ser almacenada en la base de datos correspondiente, asegurando coherencia y compatibilidad con la estructura de datos definida. El sistema debe comparar automáticamente la información extraída de los CV de los candidatos con los perfiles requeridos almacenados en la base de datos, utilizando algoritmos de comparación y coincidencia. Se requiere una interfaz web intuitiva donde los candidatos puedan cargar sus CV y los reclutadores puedan acceder a la base de datos de perfiles y gestionar los datos. 
+Se generan resultados clasificando los candidatos según su grado de adecuación para los perfiles disponibles, proporcionando detalles sobre la coincidencia entre cada candidato y el perfil correspondiente.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Actores
+- Candidato
+- Reclutador
+- Administrador del Sistema
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
