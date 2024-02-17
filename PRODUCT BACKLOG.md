@@ -1,6 +1,7 @@
 # Product Backlog
 ## Sprint 1
 Fecha de inicio - 15 de febrero del 2024
+
 Fecha de término - 28 de febrero del 2024
 
 | N° | Descripción del Requerimiento | Actividad Específica | Estimación (días) | Asignado a | Estatus |
