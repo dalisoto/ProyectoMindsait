@@ -9,7 +9,7 @@
 | Brayan Yohani Narváez Morales | | | | |
 
 # Actividades diarias
-Tabla de registro de las actividades que se relizó el día de hoy 2/17/2024
+## Tabla de registro de las actividades que se relizó el día de hoy 2/17/2024
 
 | Participante | Actividad | Observaciones | Firma | Asistencia |
 |--------------|-----------|---------------|-------|------------|
@@ -19,7 +19,7 @@ Tabla de registro de las actividades que se relizó el día de hoy 2/17/2024
 | Dalia del Carmen Mendiola Soto | Realización del Modelo Relacional | Aún no puede avanzar debido a que su actividad depenede de la realización pre-anterior del Modelo Entidad-Relación, por lo que sigue a la espera de este documento | Dalia Mendiola | Si |
 | Brayan Yohani Narváez Morales | Modificación del Product Backlog | Se propusieron algunos cambios para las actividades dentro del product backlog, entre ellas: los candidatos deberán insertar manualmente dentro de la plataforma la información de su cv, implementar diseño UML en la documentación, y que los candidatos pueda insertar sus certificaciones que respaldenla infromación propuesta | Brayan Narváez ;) | Si |
 
-Tabla de registro de las actividades que se relizó el día de hoy 2/18/2024
+## Tabla de registro de las actividades que se relizó el día de hoy 2/18/2024
 
 | Participante | Actividad | Observaciones | Firma | Asistencia |
 |--------------|-----------|---------------|-------|------------|
