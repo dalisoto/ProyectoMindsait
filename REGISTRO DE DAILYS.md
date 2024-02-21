@@ -28,3 +28,23 @@
 | Oscar Ramírez Sánchez | Aclaración de dudas y comienzo con el desarrollo Front-End | Aclaró unas dudas con respecto al requerimiento que le corresponde. También comenzó el desarrollo inicial del front-end del módulo que le corresponde, en este caso la parte de la creación de perfiles por parte del departamento de RH | | Si |
 | Dalia del Carmen Mendiola Soto | Comienzo del Modelo Relacional | Ya con la obtención del Modelo E-R por parte de su compañero, ya comenzó el modelo Relacional para su conclusión | Dalia Mendiola | Si |
 | Brayan Yohani Narváez Morales | Modificación del Product Backlog | Deberá modificar el product backlog agregando la funcionalidad de un login para roles de candidatos y administradores (RH), además de las modificaciones que se mencionaron en reuniones pasadas | Brayan Yohani :) | No |
+
+## Tabla de registro de las actividades que se relizó el día de hoy 2/19/2024
+
+| Participante | Actividad | Observaciones | Firma | Asistencia |
+|--------------|-----------|---------------|-------|------------|
+| Cristian Ismael Prado Salazar	| | | | Si |
+| Francisco Torres Rojas | | | | Si |
+| Oscar Ramírez Sánchez | | | | No |
+| Dalia del Carmen Mendiola Soto | | | | Si |
+| Brayan Yohani Narváez Morales | | | | Si |
+
+## Tabla de registro de las actividades que se relizó el día de hoy 2/20/2024
+
+| Participante | Actividad | Observaciones | Firma | Asistencia |
+|--------------|-----------|---------------|-------|------------|
+| Cristian Ismael Prado Salazar	| | | | Si |
+| Francisco Torres Rojas | | | | Si |
+| Oscar Ramírez Sánchez | | | | Si |
+| Dalia del Carmen Mendiola Soto | | | | Si |
+| Brayan Yohani Narváez Morales | | | | Si |
