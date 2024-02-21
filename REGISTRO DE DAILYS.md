@@ -36,7 +36,7 @@
 | Cristian Ismael Prado Salazar	| Continuidad con el modelado UML y creación de proyecto Angular | Ya se creó el proyecto en Angular de forma vacia y se subió a este repositorio en la rama "Master" | Cristian Ismael Prado Salazar | Si |
 | Francisco Torres Rojas | Sigue a la espera de cambios en Product Backlog | Aún está a la espera de como se va a modificar el product backlog y por lo tanto los requerimientos que le tocará realizar | | Si |
 | Oscar Ramírez Sánchez | Comienzo con Angular | Ya una vez se subió el proyecto Angular al respoitorio realizó algunos cambios en él con respecto al diseño y estructura de este | | No |
-| Dalia del Carmen Mendiola Soto | Proceso de transformación de Modelo E-R a Relacional | Tuvo algunas dificultades con respecto a las reglas para transformar el modelo E-R a Relacional, sin embargo está en plena investigación de ello para poder realizarlo y concluirlo | | Si |
+| Dalia del Carmen Mendiola Soto | Proceso de transformación de Modelo E-R a Relacional | Tuvo algunas dificultades con respecto a las reglas para transformar el modelo E-R a Relacional, sin embargo está en plena investigación de ello para poder realizarlo y concluirlo | Dalia Mendiola | Si |
 | Brayan Yohani Narváez Morales | Modificación de requerimientos | Se hicieron cambios y sugerencias de la implementación para el proyecto Angular, estos nuevos requerimientos deberán ser agregados al Product Backlog y asignados a ciertos integrantes del equipo | | Si |
 
 ## Tabla de registro de las actividades que se relizó el día de hoy 2/20/2024
@@ -46,5 +46,5 @@
 | Cristian Ismael Prado Salazar	| Continuidad con UML y Angular | Aún está en proceso el desarrollo del diseño UML, además de continuidad con el proyecto Angular | | Si |
 | Francisco Torres Rojas | Asignación de su módulo para Angular | Se le asginó el módulo de formulario para que los candidatos puedan insertar la información de sus CV en ellos | | Si |
 | Oscar Ramírez Sánchez | Diseño front-end con Bootswatch | Implementó una librería que proviene de BootStrap llamada "BootsWatch" donde impleentó un tema en específico pra trabajar en la aplicación | | Si |
-| Dalia del Carmen Mendiola Soto | Continuidad con modelo Relacional y transformación a NoSQL | Sigue en proceso la trnasformación del Modelo E-R a Relacional para poder continuar con el modelo o propuesta NoSQL para MongoDB | | Si |
+| Dalia del Carmen Mendiola Soto | Continuidad con modelo Relacional y transformación a NoSQL | Sigue en proceso la trnasformación del Modelo E-R a Relacional para poder continuar con el modelo o propuesta NoSQL para MongoDB | Dalia Mendiola | Si |
 | Brayan Yohani Narváez Morales | Aignación de Actividades FUNCIONALES | Asignar módulos programables a cada integrante del equipo para que así ya puedan comenzar a programar dentro del proyecto Angular | | Si |
