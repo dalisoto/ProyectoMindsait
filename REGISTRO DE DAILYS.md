@@ -48,3 +48,13 @@
 | Oscar Ramírez Sánchez | Diseño front-end con Bootswatch | Implementó una librería que proviene de BootStrap llamada "BootsWatch" donde impleentó un tema en específico pra trabajar en la aplicación | | Si |
 | Dalia del Carmen Mendiola Soto | Continuidad con modelo Relacional y transformación a NoSQL | Sigue en proceso la trnasformación del Modelo E-R a Relacional para poder continuar con el modelo o propuesta NoSQL para MongoDB | Dalia Mendiola | Si |
 | Brayan Yohani Narváez Morales | Aignación de Actividades FUNCIONALES | Asignar módulos programables a cada integrante del equipo para que así ya puedan comenzar a programar dentro del proyecto Angular | | Si |
+
+## Tabla de registro de las actividades que se relizó el día de hoy 2/26/2024
+
+| Participante | Actividad | Observaciones | Firma | Asistencia |
+|--------------|-----------|---------------|-------|------------|
+| Cristian Ismael Prado Salazar	| Entrega de la documentación | Se realizó el caso de uso del sistema y se describireron 2 escenarios: registrar cuenta e iniciar sesión. Se entregó a Alexandro y al equipo para su revisión. También se modificó la redacción del sistema, los requerimientos, los actores y los casos de uso. Además la implementación del modelo Relacional | Isma :))) | Si |
+| Francisco Torres Rojas | Empezó la codificación de su requerimiento | Empezó a codificar el apartado de los formularios del curriculum, se hizo el análisis de los formularios y la infromación que el candidato deberá ingresar en estos para el proceso de evaluación curricular | | Si |
+| Oscar Ramírez Sánchez | Login - Front-end | Empezó a trabajar con un login y a buscar información para la conectividad de MongoDB con el proyecto Angular | | Si |
+| Dalia del Carmen Mendiola Soto | Entrega de Modelo Relacional y programación | Se entregó el modelo relacional y se implementó como parte de la documentación del proyecto. Además empezó la codificación en el proyecto | | Si |
+| Brayan Yohani Narváez Morales | Rol como PO | Se hizo observación sobre el plan de trabajo, en el que se sugiere ya sea apoyar este rol, o proponerlo a algún otro miembro del equipo. Se deben realizar ajustes en el PB para poder trabajar de manera coherente y organizada en el proyecto y en lo que se debe entregar | | No |
