@@ -19,3 +19,11 @@ Fecha de término - 28 de febrero del 2024
 | 11 | Como sistema, quiero establecer una política de tratamiento de datos personales que cumpla con las leyes de privacidad y protección de datos, asegurando que los datos personales estén protegidos y se utilicen de acuerdo con las regulaciones aplicables, para garantizar la privacidad y seguridad de los datos de los usuarios. | Definir políticas y procedimientos para proteger y utilizar los datos personales según las regulaciones | 2 | Francisco Torres Rojas | Pendiente |
 | 12 | Como sistema, quiero poder enviar notificaciones automáticas a los candidatos sobre el estado de su aplicación, y permitir a los reclutadores comunicarse con los candidatos a través del sistema para coordinar entrevistas u obtener más información si es necesario, para mantener a los candidatos informados y facilitar la comunicación entre reclutadores y candidatos. | Desarrollar la funcionalidad de enviar notificaciones sobre el estado de la aplicación a los candidatos | 3 | Cristian Ismael Prado Salazar | Pendiente |
 | 13 | Habilitar comunicación entre reclutadores y candidatos a través del sistema | Implementar funcionalidad de comunicación entre usuarios del sistema | 4 | Dalia Mendiola Soto | Pendiente |
+
+
+
+## Sprint 2
+Fecha de inicio - 
+
+Fecha de término -
+| N° | Descripción del Requerimiento | Actividad Específica | Estimación (días) | Asignado a | Estatus |
