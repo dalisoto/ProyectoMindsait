@@ -26,4 +26,6 @@ Fecha de término - 28 de febrero del 2024
 Fecha de inicio - 
 
 Fecha de término -
+
 | N° | Descripción del Requerimiento | Actividad Específica | Estimación (días) | Asignado a | Estatus |
+|---|--------------------------------|----------------------|---------------------|------------|---------|
