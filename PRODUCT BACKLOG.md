@@ -23,9 +23,26 @@ Fecha de término - 28 de febrero del 2024
 
 
 ## Sprint 2
-Fecha de inicio - 01/03/2024
+Fecha de inicio - 07/03/2024
 
-Fecha de término - 16/03/2024
+Fecha de término - 21/03/2024
 
 | N° | Descripción del Requerimiento | Actividad Específica | Estimación (días) | Asignado a | Estatus |
 |---|--------------------------------|----------------------|---------------------|------------|---------|
+
+
+## Sprint 3
+Fecha de inicio - 21/03/2024
+
+Fecha de término - 04/04/2024
+
+## Sprint 2
+Fecha de inicio - 04/04/2024
+
+Fecha de término - 18/04/2024
+
+## Sprint 2
+Fecha de inicio - 18/04/2024
+
+Fecha de término - 02/05/2024
+
