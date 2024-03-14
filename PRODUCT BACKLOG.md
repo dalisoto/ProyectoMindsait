@@ -45,13 +45,82 @@ Fecha de inicio - 21/03/2024
 
 Fecha de término - 04/04/2024
 
+# Product Backlog - Sprint 2
+
+## Historia de Usuario: Aplicación a Vacantes y Seguimiento del Proceso
+
+**Descripción:** Los candidatos deben poder aplicar a vacantes específicas y realizar un seguimiento del proceso de selección. Los responsables de recursos humanos (RH) deben poder revisar las aplicaciones de los candidatos, realizar evaluaciones y registrar notas y comentarios durante el proceso de selección.
+
+| Actividades Específicas por Integrante |
+|----------------------------------------|
+| **Actividad:** Desarrollo del Sistema de Aplicación a Vacantes |
+| **Tareas:** Implementar la funcionalidad que permita a los candidatos aplicar a vacantes específicas, registrando la aplicación en el sistema. |
+| - Francisco |
+| - Brayan |
+
+| Actividades Específicas por Integrante |
+|----------------------------------------|
+| **Actividad:** Desarrollo del Módulo de Seguimiento del Proceso |
+| **Tareas:** Implementar la funcionalidad para que los RH revisen las aplicaciones de los candidatos, realicen evaluaciones y registren notas y comentarios durante el proceso de selección. |
+| - Cristian |
+| - Dalia |
+| - Oscar |
+
+
 ## Sprint 3
 Fecha de inicio - 04/04/2024
 
 Fecha de término - 18/04/2024
 
+# Product Backlog - Sprint 3
+
+## Historia de Usuario: Evaluaciones Curriculares y Entrevistas
+
+**Descripción:** El proceso de selección incluye la realización de evaluaciones curriculares y entrevistas técnicas y de recursos humanos. Durante estas etapas, se deben registrar notas, comentarios y resultados para cada candidato, con el fin de facilitar la toma de decisiones por parte del equipo de RH.
+
+| Actividades Específicas por Integrante |
+|----------------------------------------|
+| **Actividad:** Desarrollo del Módulo de Evaluaciones Curriculares |
+| **Tareas:** Implementar la funcionalidad para que los responsables de recursos humanos realicen evaluaciones curriculares de los candidatos, registrando notas y comentarios. |
+| - Cristian |
+| - Brayan |
+| - Dalia |
+
+| Actividades Específicas por Integrante |
+|----------------------------------------|
+| **Actividad:** Desarrollo del Módulo de Entrevistas Técnicas |
+| **Tareas:** Implementar la funcionalidad para que los responsables de recursos humanos realicen entrevistas técnicas a los candidatos, registrando notas, comentarios y resultados de la entrevista. |
+| - Francisco |
+| - Oscar |
+
+| Actividades Específicas por Integrante |
+|----------------------------------------|
+| **Actividad:** Desarrollo del Módulo de Entrevistas de Recursos Humanos |
+| **Tareas:** Implementar la funcionalidad para que los responsables de recursos humanos realicen entrevistas de recursos humanos a los candidatos, registrando notas, comentarios y resultados de la entrevista. |
+| - Cristian |
+| - Brayan |
+| - Dalia |
+
+
 ## Sprint 4
 Fecha de inicio - 18/04/2024
 
 Fecha de término - 02/05/2024
+
+# Product Backlog - Sprint 4
+
+## Historia de Usuario: Matching de Candidatos y Vacantes
+
+**Descripción:** El sistema debe permitir la comparación de habilidades, experiencia laboral, certificaciones, educación y otros criterios relevantes entre el perfil de un candidato y los requisitos de una vacante específica. Esto implica implementar un algoritmo de matching y mostrar los resultados al equipo de RH.
+
+| Actividades Específicas por Integrante |
+|----------------------------------------|
+| **Actividad:** Desarrollo del Módulo de Matching |
+| **Tareas:** Implementar el algoritmo de matching que compare los perfiles de candidatos con los requisitos de las vacantes y muestre los resultados al equipo de RH. |
+| - Brayan |
+| - Francisco |
+| - Oscar |
+| - Cristian |
+| - Dalia |
+
 
