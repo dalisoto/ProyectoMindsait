@@ -46,7 +46,7 @@ Fecha de término - 21/03/2024
 
 ### Product Backlog - Sprint 1
 
-#### Historia de Usuario: Registro de Candidatos
+#### Historia de Usuario: Como candidato interesado en oportunidades laborales quiero que haya un registro de candidatos
 
 **Descripción:** Los candidatos deben poder registrarse en el sistema proporcionando información personal y profesional básica. El sistema debe validar la dirección de correo electrónico del candidato para garantizar que sea única y válida.
 
@@ -70,7 +70,7 @@ Fecha de término - 04/04/2024
 
 # Product Backlog - Sprint 2
 
-## Historia de Usuario: Como candidato interesado en oportunidades laborales quiero que haya aplicación a Vacantes y Seguimiento del Proceso
+## Historia de Usuario: Como candidato interesado en oportunidades laborales quiero que haya aplicación a vacantes y seguimiento del proceso
 
 **Descripción:** Los candidatos deben poder aplicar a vacantes específicas y realizar un seguimiento del proceso de selección. Los responsables de recursos humanos (RH) deben poder revisar las aplicaciones de los candidatos, realizar evaluaciones y registrar notas y comentarios durante el proceso de selección.
 
@@ -119,7 +119,7 @@ Fecha de término - 18/04/2024
 
 # Product Backlog - Sprint 3
 
-## Historia de Usuario: Evaluaciones Curriculares y Entrevistas
+## Historia de Usuario: Como miembro del equipo de recursos humanos quiero que exista Evaluaciones Curriculares y Entrevistas
 
 **Descripción:** El proceso de selección incluye la realización de evaluaciones curriculares y entrevistas técnicas y de recursos humanos. Durante estas etapas, se deben registrar notas, comentarios y resultados para cada candidato, con el fin de facilitar la toma de decisiones por parte del equipo de RH.
 
