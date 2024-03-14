@@ -89,6 +89,28 @@ Fecha de término - 04/04/2024
 | - Dalia |
 | - Oscar |
 
+## Sprint 2 - Detalles Específicos
+
+### Fecha de inicio: 21/03/2024
+### Fecha de término: 04/04/2024
+
+### Product Backlog - Sprint 2
+
+#### Historia de Usuario: Aplicación a Vacantes y Seguimiento del Proceso
+
+**Descripción:** Los candidatos deben poder aplicar a vacantes específicas y realizar un seguimiento del proceso de selección. Los responsables de recursos humanos (RH) deben poder revisar las aplicaciones de los candidatos, realizar evaluaciones y registrar notas y comentarios durante el proceso de selección.
+
+| Actividades Específicas por Integrante | Tarea |
+|----------------------------------------|-------|
+| Desarrollo del Sistema de Aplicación a Vacantes | Implementar la funcionalidad que permita a los candidatos aplicar a vacantes específicas, registrando la aplicación en el sistema. |
+| - Francisco | Desarrollar la interfaz y la lógica para que los candidatos puedan buscar y aplicar a vacantes en Angular, integrando con el backend para almacenar la aplicación en MongoDB. |
+| - Brayan | Implementar la lógica del backend (Spring Boot o equivalente) para procesar las solicitudes de aplicación a vacantes, validar los datos y almacenarlos en la base de datos MongoDB. |
+| Desarrollo del Módulo de Seguimiento del Proceso | Implementar la funcionalidad para que los RH revisen las aplicaciones de los candidatos, realicen evaluaciones y registren notas y comentarios durante el proceso de selección. |
+| - Cristian | Desarrollar la interfaz y la lógica para que los RH puedan revisar las aplicaciones de los candidatos, evaluarlas y registrar notas y comentarios en Angular. |
+| - Dalia | Implementar la lógica del backend (Spring Boot o equivalente) para gestionar las aplicaciones de los candidatos, realizar evaluaciones y almacenar notas y comentarios en MongoDB. |
+| - Oscar | Configurar y mantener la base de datos MongoDB, asegurando la integridad y seguridad de los datos, así como la optimización del rendimiento para el seguimiento del proceso de selección. |
+
+
 
 ## Sprint 3
 Fecha de inicio - 04/04/2024
