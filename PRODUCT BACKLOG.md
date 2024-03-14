@@ -39,6 +39,29 @@ Fecha de término - 21/03/2024
 | - Dalia |
 | - Oscar |
 
+## Sprint 1 - Detalles Específicos
+
+### Fecha de inicio: 07/03/2024
+### Fecha de término: 21/03/2024
+
+### Product Backlog - Sprint 1
+
+#### Historia de Usuario: Registro de Candidatos
+
+**Descripción:** Los candidatos deben poder registrarse en el sistema proporcionando información personal y profesional básica. El sistema debe validar la dirección de correo electrónico del candidato para garantizar que sea única y válida.
+
+| Actividades Específicas por Integrante | Tarea |
+|----------------------------------------|-------|
+| Configuración del Entorno de Desarrollo | Configurar el entorno de desarrollo, incluyendo herramientas de desarrollo, base de datos y servidores necesarios para comenzar con el desarrollo del proyecto. |
+| - Cristian, Brayan | Configuración de herramientas de desarrollo (Angular), instalación y configuración de MongoDB, configuración del entorno de desarrollo en Angular y Spring Boot (o equivalente). |
+| Configuración de la Base de Datos | Diseñar e implementar la estructura básica de la base de datos para almacenar la información de los candidatos y perfiles de vacantes. |
+| - Dalia, Oscar | Diseño y creación de la base de datos en MongoDB, definición de colecciones y campos necesarios para almacenar la información de candidatos y perfiles de vacantes. |
+| Desarrollo del Sistema de Registro de Candidatos | Desarrollar la funcionalidad de registro de candidatos, incluyendo la validación de la dirección de correo electrónico y el almacenamiento de la información en la base de datos. |
+| - Francisco | Implementación del formulario de registro de candidatos en Angular, validación de la dirección de correo electrónico, y desarrollo del servicio para almacenar los datos en la base de datos MongoDB. |
+| Desarrollo del Módulo de Gestión de Perfiles de Vacantes | Implementar la capacidad de los RH para crear, editar y eliminar perfiles de vacantes, asegurando que la información se almacene correctamente en la base de datos. |
+| - Cristian, Brayan, Dalia, Oscar | Desarrollo del formulario y lógica para la gestión de perfiles de vacantes en Angular, desarrollo del servicio para interactuar con la base de datos MongoDB, implementación de funcionalidades CRUD para perfiles de vacantes. |
+
+
 
 ## Sprint 2
 Fecha de inicio - 21/03/2024
