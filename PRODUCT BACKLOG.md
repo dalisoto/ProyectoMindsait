@@ -147,6 +147,32 @@ Fecha de término - 18/04/2024
 | - Dalia |
 
 
+## Sprint 3 - Detalles Específicos
+
+### Fecha de inicio: 04/04/2024
+### Fecha de término: 18/04/2024
+
+### Product Backlog - Sprint 3
+
+#### Historia de Usuario: Evaluaciones Curriculares y Entrevistas
+
+**Descripción:** El proceso de selección incluye la realización de evaluaciones curriculares y entrevistas técnicas y de recursos humanos. Durante estas etapas, se deben registrar notas, comentarios y resultados para cada candidato, con el fin de facilitar la toma de decisiones por parte del equipo de RH.
+
+| Actividades Específicas por Integrante | Tarea |
+|----------------------------------------|-------|
+| Desarrollo del Módulo de Evaluaciones Curriculares | Implementar la funcionalidad para que los responsables de recursos humanos realicen evaluaciones curriculares de los candidatos, registrando notas y comentarios. |
+| - Cristian | Desarrollar la interfaz y la lógica para que los RH puedan realizar evaluaciones curriculares de los candidatos en Angular. |
+| - Brayan | Implementar la lógica del backend (Spring Boot o equivalente) para gestionar las evaluaciones curriculares de los candidatos y almacenar notas y comentarios en MongoDB. |
+| - Dalia | Configurar y mantener la base de datos MongoDB, asegurando la integridad y seguridad de los datos para las evaluaciones curriculares. |
+| Desarrollo del Módulo de Entrevistas Técnicas | Implementar la funcionalidad para que los responsables de recursos humanos realicen entrevistas técnicas a los candidatos, registrando notas, comentarios y resultados de la entrevista. |
+| - Francisco | Desarrollar la interfaz y la lógica para que los RH puedan realizar entrevistas técnicas a los candidatos en Angular. |
+| - Oscar | Implementar la lógica del backend (Spring Boot o equivalente) para gestionar las entrevistas técnicas de los candidatos y almacenar notas, comentarios y resultados en MongoDB. |
+| Desarrollo del Módulo de Entrevistas de Recursos Humanos | Implementar la funcionalidad para que los responsables de recursos humanos realicen entrevistas de recursos humanos a los candidatos, registrando notas, comentarios y resultados de la entrevista. |
+| - Cristian | Desarrollar la interfaz y la lógica para que los RH puedan realizar entrevistas de recursos humanos a los candidatos en Angular. |
+| - Brayan | Implementar la lógica del backend (Spring Boot o equivalente) para gestionar las entrevistas de recursos humanos de los candidatos y almacenar notas, comentarios y resultados en MongoDB. |
+| - Dalia | Configurar y mantener la base de datos MongoDB, asegurando la integridad y seguridad de los datos para las entrevistas de recursos humanos. |
+
+
 ## Sprint 4
 Fecha de inicio - 18/04/2024
 
