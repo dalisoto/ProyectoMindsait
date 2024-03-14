@@ -195,19 +195,25 @@ Fecha de término - 02/05/2024
 | - Dalia |
 
 
-Sprint 4 - Detalles Específicos
-Fecha de inicio: 18/04/2024
-Fecha de término: 02/05/2024
-Product Backlog - Sprint 4
-Historia de Usuario: Matching de Candidatos y Vacantes
+## Sprint 4 - Detalles Específicos
 
-Descripción: El sistema debe permitir la comparación de habilidades, experiencia laboral, certificaciones, educación y otros criterios relevantes entre el perfil de un candidato y los requisitos de una vacante específica. Esto implica implementar un algoritmo de matching y mostrar los resultados al equipo de RH.
-Actividades Específicas por Integrante	Tarea
-Desarrollo del Módulo de Matching	Implementar el algoritmo de matching que compare los perfiles de candidatos con los requisitos de las vacantes y muestre los resultados al equipo de RH.
-- Brayan	Desarrollar la lógica del algoritmo de matching en el backend (Spring Boot o equivalente), considerando los diferentes atributos y sus pesos asignados por el equipo de RH.
-- Francisco	Desarrollar la interfaz y la lógica en Angular para mostrar los resultados del matching al equipo de RH de forma clara y fácil de entender.
-- Oscar	Asistir en el diseño e implementación del algoritmo de matching en el backend, asegurando su eficiencia y escalabilidad.
-- Cristian	Colaborar en la definición de los criterios de matching y pesos asignados a los diferentes atributos, así como en la integración del algoritmo en el backend.
-- Dalia	Configurar y mantener la base de datos MongoDB, asegurando que los resultados del matching se almacenen de manera adecuada y segura, y colaborar en la integración del algoritmo en el backend.
+### Fecha de inicio: 18/04/2024
+### Fecha de término: 02/05/2024
+
+### Product Backlog - Sprint 4
+
+#### Historia de Usuario: Matching de Candidatos y Vacantes
+
+**Descripción:** El sistema debe permitir la comparación de habilidades, experiencia laboral, certificaciones, educación y otros criterios relevantes entre el perfil de un candidato y los requisitos de una vacante específica. Esto implica implementar un algoritmo de matching y mostrar los resultados al equipo de RH.
+
+| Actividades Específicas por Integrante | Tarea |
+|----------------------------------------|-------|
+| Desarrollo del Módulo de Matching | Implementar el algoritmo de matching que compare los perfiles de candidatos con los requisitos de las vacantes y muestre los resultados al equipo de RH. |
+| - Brayan | Desarrollar la lógica del algoritmo de matching en el backend (Spring Boot o equivalente), considerando los diferentes atributos y sus pesos asignados por el equipo de RH. |
+| - Francisco | Desarrollar la interfaz y la lógica en Angular para mostrar los resultados del matching al equipo de RH de forma clara y fácil de entender. |
+| - Oscar | Asistir en el diseño e implementación del algoritmo de matching en el backend, asegurando su eficiencia y escalabilidad. |
+| - Cristian | Colaborar en la definición de los criterios de matching y pesos asignados a los diferentes atributos, así como en la integración del algoritmo en el backend. |
+| - Dalia | Configurar y mantener la base de datos MongoDB, asegurando que los resultados del matching se almacenen de manera adecuada y segura, y colaborar en la integración del algoritmo en el backend. |
+
 
 
