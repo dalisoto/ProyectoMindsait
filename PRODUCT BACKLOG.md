@@ -36,12 +36,12 @@ Fecha de inicio - 21/03/2024
 
 Fecha de término - 04/04/2024
 
-## Sprint 2
+## Sprint 4
 Fecha de inicio - 04/04/2024
 
 Fecha de término - 18/04/2024
 
-## Sprint 2
+## Sprint 5
 Fecha de inicio - 18/04/2024
 
 Fecha de término - 02/05/2024
