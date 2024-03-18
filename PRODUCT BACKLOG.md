@@ -29,7 +29,7 @@
 | Oscar | Ajustes finales | Revisar y corregir detalles finales de la aplicación antes de la entrega | 5 horas | 07/03/2024 | 21/03/2024 |
 | Oscar | Implementar funcionalidad de registro de usuarios | Desarrollar la opción de registro de usuarios en la aplicación | 15 horas | 07/03/2024 | 21/03/2024 |
 
-# Sprint 2
+## Sprint 2
 
 | **Fecha de inicio:** | 21/03/2024 |
 | **Fecha de término:** | 03/04/2024 |
@@ -48,10 +48,9 @@
 | Brayan | Realizar pruebas de seguridad en el sistema de registro | Evaluar la seguridad del sistema de registro de usuarios y realizar pruebas de penetración | 10 horas | 21/03/2024 | 03/04/2024 | 
 
 
-| **Sprint 3** |
-| --- |
-| **Fecha de inicio:** 03/04/2024 |
-| **Fecha de término:** 16/04/2024 |
+## Sprint 3
+| **Fecha de inicio:** | 03/04/2024 |
+| **Fecha de término:** | 16/04/2024 |
 
 | **Responsable** | **Tarea**                                              | **Descripción**                                                                                                           | **Esfuerzo estimado (horas)** | **Fecha de inicio** | **Fecha de término** |
 |-----------------|--------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|-------------------------------|---------------------|----------------------|
