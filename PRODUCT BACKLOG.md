@@ -12,8 +12,9 @@
 # SPRINTS
 
 ## Sprint 1 
-| **Fecha de inicio:** 07/03/2024 |
-| **Fecha de término:** 21/03/2024 |
+
+| **Fecha de inicio:** | 07/03/2024 |
+| **Fecha de término:** | 21/03/2024 |
 
 | Tarea | Descripción | Responsable | Esfuerzo estimado (horas) |
 | --- | --- | --- | --- |
