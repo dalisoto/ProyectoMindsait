@@ -24,7 +24,7 @@
 | Pruebas de aplicación a vacantes | Realizar pruebas exhaustivas para garantizar el correcto funcionamiento de la aplicación | Brayan | 10 horas |
 | Ajustes finales | Realizar ajustes y correcciones necesarias antes de finalizar el sprint | Oscar | 5 horas |
 
-| **Sprint 2** |
+| # **Sprint 2** |
 | --- |
 | **Fecha de inicio:** 21/03/2024 |
 | **Fecha de término:** 03/04/2024 |
