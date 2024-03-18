@@ -16,13 +16,18 @@
 | **Fecha de inicio:** | 07/03/2024 |
 | **Fecha de término:** | 21/03/2024 |
 
-| Tarea | Descripción | Responsable | Esfuerzo estimado (horas) |
-| --- | --- | --- | --- |
-| Diseñar interfaz de aplicación a vacantes | Crear la interfaz para que los candidatos puedan aplicar a vacantes y hacer seguimiento del proceso | Ismael | 25 horas |
-| Implementar funcionalidad de seguimiento | Desarrollar la funcionalidad que permita a los candidatos seguir el estado de sus aplicaciones | Dalia | 15 horas |
-| Conectar aplicación con base de datos de vacantes | Establecer la conexión para mostrar las vacantes disponibles a los candidatos | Francisco | 20 horas |
-| Pruebas de aplicación a vacantes | Realizar pruebas exhaustivas para garantizar el correcto funcionamiento de la aplicación | Brayan | 10 horas |
-| Ajustes finales | Realizar ajustes y correcciones necesarias antes de finalizar el sprint | Oscar | 5 horas |
+| **Responsable** | **Tarea** | **Descripción** | **Esfuerzo estimado (horas)** | **Fecha de inicio** | **Fecha de término** |
+| --- | --- | --- | --- | --- | --- |
+| Ismael | Diseñar interfaz de aplicación a vacantes | Crear la interfaz para que los candidatos puedan aplicar a vacantes y hacer seguimiento del proceso | 25 horas | 07/03/2024 | 21/03/2024 |
+| Ismael | Implementar funcionalidad de notificaciones | Desarrollar un sistema de notificaciones para informar a los candidatos sobre el estado de sus aplicaciones | 20 horas | 07/03/2024 | 21/03/2024 |
+| Dalia | Implementar funcionalidad de seguimiento | Desarrollar la funcionalidad que permita a los candidatos seguir el estado de sus aplicaciones | 15 horas | 07/03/2024 | 21/03/2024 |
+| Dalia | Realizar pruebas de usabilidad | Diseñar casos de prueba y ejecutar pruebas de usabilidad con usuarios reales | 10 horas | 07/03/2024 | 21/03/2024 |
+| Francisco | Conectar aplicación con base de datos de vacantes | Establecer la conexión para mostrar las vacantes disponibles a los candidatos | 20 horas | 07/03/2024 | 21/03/2024 |
+| Francisco | Desarrollar funcionalidad de filtrado de vacantes | Crear un sistema de filtros para que los candidatos puedan buscar vacantes | 15 horas | 07/03/2024 | 21/03/2024 |
+| Brayan | Pruebas de aplicación a vacantes | Realizar pruebas funcionales y de rendimiento de la aplicación | 10 horas | 07/03/2024 | 21/03/2024 |
+| Brayan | Realizar pruebas de seguridad | Evaluar la seguridad de la aplicación y realizar pruebas de penetración | 10 horas | 07/03/2024 | 21/03/2024 |
+| Oscar | Ajustes finales | Revisar y corregir detalles finales de la aplicación antes de la entrega | 5 horas | 07/03/2024 | 21/03/2024 |
+| Oscar | Implementar funcionalidad de registro de usuarios | Desarrollar la opción de registro de usuarios en la aplicación | 15 horas | 07/03/2024 | 21/03/2024 |
 
 | **Sprint 2** |
 | --- |
