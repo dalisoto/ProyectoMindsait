@@ -53,13 +53,21 @@
 | **Fecha de inicio:** 03/04/2024 |
 | **Fecha de término:** 16/04/2024 |
 
-| Tarea | Descripción | Responsable | Esfuerzo estimado (horas) |
-| --- | --- | --- | --- |
-| Diseñar interfaz de evaluaciones curriculares | Crear la interfaz para que el equipo de recursos humanos pueda realizar evaluaciones curriculares | Ismael | 20 horas |
-| Desarrollar funcionalidad de entrevistas | Implementar la funcionalidad que permita programar y realizar entrevistas a los candidatos | Dalia | 25 horas |
-| Conectar evaluaciones con base de datos | Establecer la conexión para almacenar los resultados de las evaluaciones | Francisco | 15 horas |
-| Pruebas de evaluaciones y entrevistas | Realizar pruebas para asegurar el correcto funcionamiento de las evaluaciones y entrevistas | Brayan | 10 horas |
-| Ajustes finales | Realizar ajustes y correcciones necesarias antes de finalizar el sprint | Oscar | 5 horas |
+| **Responsable** | **Tarea**                                              | **Descripción**                                                                                                           | **Esfuerzo estimado (horas)** | **Fecha de inicio** | **Fecha de término** |
+|-----------------|--------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|-------------------------------|---------------------|----------------------|
+| Ismael          | Implementar algoritmo de Matching                        | Desarrollar el algoritmo de comparación entre candidatos y vacantes según los criterios establecidos.                     | 20 horas                      | 03/04/2024          | 16/04/2024           |
+| Dalia           | Implementar algoritmo de Matching                        | Contribuir al desarrollo del algoritmo de Matching según los criterios establecidos.                                      | 15 horas                      | 03/04/2024          | 16/04/2024           |
+| Francisco       | Implementar algoritmo de Matching                        | Contribuir al desarrollo del algoritmo de Matching según los criterios establecidos.                                      | 15 horas                      | 03/04/2024          | 16/04/2024           |
+| Brayan          | Implementar algoritmo de Matching                        | Contribuir al desarrollo del algoritmo de Matching según los criterios establecidos.                                      | 15 horas                      | 03/04/2024          | 16/04/2024           |
+| Oscar           | Implementar algoritmo de Matching                        | Contribuir al desarrollo del algoritmo de Matching según los criterios establecidos.                                      | 15 horas                      | 03/04/2024          | 16/04/2024           |
+| Ismael          | Realizar pruebas de rendimiento del algoritmo            | Ejecutar pruebas para evaluar la eficiencia y precisión del algoritmo de Matching.                                        | 10 horas                      | 03/04/2024          | 16/04/2024           |
+| Dalia           | Realizar pruebas de usabilidad del Matching              | Diseñar casos de prueba y ejecutar pruebas de usabilidad para garantizar la facilidad de uso y comprensión del algoritmo. | 10 horas                      | 03/04/2024          | 16/04/2024           |
+| Brayan          | Realizar pruebas de seguridad del Matching               | Evaluar la seguridad del algoritmo de Matching y realizar pruebas de penetración para detectar posibles vulnerabilidades. | 10 horas                      | 03/04/2024          | 16/04/2024           |
+| Brayan          | Ajustes finales del algoritmo de Matching               | Revisar y corregir detalles finales del algoritmo antes de la entrega para garantizar su correcto funcionamiento.         | 5 horas                       | 03/04/2024          | 16/04/2024           |
+| Oscar           | Documentar proceso y funcionamiento del Matching         | Crear documentación detallada que explique el proceso y funcionamiento del algoritmo de Matching para futuras referencias. | 10 horas                      | 03/04/2024          | 16/04/2024           |
+| Francisco       | Desarrollar interfaz para visualizar resultados de Matching | Crear una interfaz gráfica para que los usuarios puedan ver los resultados del algoritmo de Matching de forma clara y comprensible. | 15 horas | 03/04/2024 | 16/04/2024 |
+| Francisco       | Implementar funcionalidad de reportes para Matching      | Desarrollar la opción de generar informes y reportes basados en los resultados del algoritmo de Matching.                | 15 horas                      | 03/04/2024          | 16/04/2024           |
+
 
 | **Sprint 4** |
 | --- |
