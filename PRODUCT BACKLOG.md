@@ -34,13 +34,19 @@
 | **Fecha de inicio:** 21/03/2024 |
 | **Fecha de término:** 03/04/2024 |
 
-| Tarea | Descripción | Responsable | Esfuerzo estimado (horas) |
-| --- | --- | --- | --- |
-| Crear formulario de registro | Desarrollar la interfaz para que los candidatos puedan registrarse en el sistema proporcionando información personal y básica | Ismael | 20 horas |
-| Implementar validaciones en el formulario | Asegurar que la información ingresada por los candidatos sea válida y cumpla con los requisitos establecidos | Dalia | 10 horas |
-| Conectar formulario con base de datos | Establecer la conexión para almacenar la información de los candidatos registrados | Francisco | 15 horas |
-| Pruebas de registro | Realizar pruebas de funcionamiento del registro para garantizar su correcto desempeño | Brayan | 5 horas |
-| Ajustes finales | Realizar ajustes y correcciones necesarias antes de finalizar el sprint | Oscar | 5 horas |
+| **Responsable** | **Tarea** | **Descripción** | **Esfuerzo estimado (horas)** | **Fecha de inicio** | **Fecha de término** | **Avance (%)** |
+| --- | --- | --- | --- | --- | --- | --- |
+| Oscar | Diseñar interfaz de registro de usuarios | Crear la interfaz para que los candidatos puedan registrarse en el sistema proporcionando información personal y básica | 25 horas | 21/03/2024 | 03/04/2024 | 0% |
+| Oscar | Ajustes finales en registro de usuarios | Revisar y corregir detalles finales del sistema de registro antes de la entrega | 5 horas | 21/03/2024 | 03/04/2024 | 0% |
+| Dalia | Implementar lógica de registro de usuarios | Desarrollar la funcionalidad que permita a los candidatos registrarse en el sistema y almacenar su información | 20 horas | 21/03/2024 | 03/04/2024 | 0% |
+| Dalia | Realizar pruebas de usabilidad en el sistema de registro | Diseñar casos de prueba y ejecutar pruebas de usabilidad con usuarios reales | 10 horas | 21/03/2024 | 03/04/2024 | 0% |
+| Ismael | Validar datos de registro de usuarios | Desarrollar validaciones para asegurar que la información proporcionada por los candidatos en el registro sea correcta | 15 horas | 21/03/2024 | 03/04/2024 | 0% |
+| Ismael | Implementar funcionalidad de notificaciones para el sistema de registro | Desarrollar un sistema de notificaciones para informar a los candidatos sobre el estado de sus registros | 20 horas | 21/03/2024 | 03/04/2024 | 0% |
+| Francisco | Conectar sistema de registro con base de datos | Establecer la conexión para almacenar la información de registro de usuarios en la base de datos | 20 horas | 21/03/2024 | 03/04/2024 | 0% |
+| Francisco | Desarrollar funcionalidad de filtrado de vacantes en el sistema de registro | Crear un sistema de filtros para que los candidatos puedan buscar vacantes en el sistema de registro | 15 horas | 21/03/2024 | 03/04/2024 | 0% |
+| Brayan | Realizar pruebas de registro de usuarios | Ejecutar pruebas funcionales y de rendimiento del sistema de registro de usuarios | 10 horas | 21/03/2024 | 03/04/2024 | 0% |
+| Brayan | Realizar pruebas de seguridad en el sistema de registro | Evaluar la seguridad del sistema de registro de usuarios y realizar pruebas de penetración | 10 horas | 21/03/2024 | 03/04/2024 | 0% |
+
 
 | **Sprint 3** |
 | --- |
