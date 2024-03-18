@@ -29,10 +29,10 @@
 | Oscar | Ajustes finales | Revisar y corregir detalles finales de la aplicación antes de la entrega | 5 horas | 07/03/2024 | 21/03/2024 |
 | Oscar | Implementar funcionalidad de registro de usuarios | Desarrollar la opción de registro de usuarios en la aplicación | 15 horas | 07/03/2024 | 21/03/2024 |
 
-| **Sprint 2** |
-| --- |
-| **Fecha de inicio:** 21/03/2024 |
-| **Fecha de término:** 03/04/2024 |
+# Sprint 2
+
+| **Fecha de inicio:** | 21/03/2024 |
+| **Fecha de término:** | 03/04/2024 |
 
 | **Responsable** | **Tarea** | **Descripción** | **Esfuerzo estimado (horas)** | **Fecha de inicio** | **Fecha de término** | **Avance (%)** |
 | --- | --- | --- | --- | --- | --- | --- |
