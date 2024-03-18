@@ -69,15 +69,20 @@
 | Francisco       | Implementar funcionalidad de reportes para Matching      | Desarrollar la opción de generar informes y reportes basados en los resultados del algoritmo de Matching.                | 15 horas                      | 03/04/2024          | 16/04/2024           |
 
 
-| **Sprint 4** |
-| --- |
-| **Fecha de inicio:** 16/04/2024 |
-| **Fecha de término:** 30/05/2024 |
+## Sprint 4
+| **Fecha de inicio:** | 16/04/2024 |
+| **Fecha de término:** | 30/05/2024 |
 
-| Tarea | Descripción | Responsable | Esfuerzo estimado (horas) |
-| --- | --- | --- | --- |
-| Desarrollar algoritmo de matching | Crear el algoritmo de comparación que determine los mejores candidatos para las vacantes disponibles | Ismael | 30 horas |
-| Implementar funcionalidad de matching | Integrar el algoritmo en la plataforma para realizar el matching entre candidatos y vacantes | Dalia | 20 horas |
-| Pruebas de matching | Realizar pruebas exhaustivas para garantizar la precisión del algoritmo de matching | Francisco | 15 horas |
-| Ajustes finales | Realizar ajustes y correcciones necesarias antes de finalizar el sprint | Brayan | 5 horas |
-| Preparación para presentación final | Preparar la presentación del proyecto y revisar que todo esté listo para la entrega | Oscar | 10 horas |
+| **Responsable** | **Tarea**                                              | **Descripción**                                                                                                           | **Esfuerzo estimado (horas)** | **Fecha de inicio** | **Fecha de término** |
+|-----------------|--------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|-------------------------------|---------------------|----------------------|
+| Ismael          | Implementar Evaluaciones Curriculares                  | Desarrollar la funcionalidad para realizar evaluaciones curriculares de los candidatos.                                   | 20 horas                      | 16/04/2024          | 30/04/2024           |
+| Ismael          | Implementar Entrevistas                                 | Desarrollar la funcionalidad para agendar y realizar entrevistas con los candidatos.                                      | 20 horas                      | 16/04/2024          | 30/04/2024           |
+| Dalia           | Diseñar interfaz de Evaluaciones Curriculares           | Crear la interfaz gráfica para que los usuarios puedan realizar y revisar las evaluaciones curriculares.                  | 15 horas                      | 16/04/2024          | 30/04/2024           |
+| Dalia           | Diseñar interfaz de Entrevistas                         | Crear la interfaz gráfica para gestionar y agendar las entrevistas con los candidatos.                                    | 15 horas                      | 16/04/2024          | 30/04/2024           |
+| Francisco       | Conectar sistema de Evaluaciones con base de datos      | Establecer la conexión para almacenar y recuperar datos relacionados con las evaluaciones curriculares.                   | 20 horas                      | 16/04/2024          | 30/04/2024           |
+| Francisco       | Conectar sistema de Entrevistas con base de datos       | Establecer la conexión para almacenar y recuperar datos relacionados con las entrevistas realizadas.                      | 20 horas                      | 16/04/2024          | 30/04/2024           |
+| Brayan          | Realizar pruebas de Evaluaciones Curriculares           | Ejecutar pruebas funcionales y de rendimiento para asegurar el correcto funcionamiento de las evaluaciones curriculares. | 15 horas                      | 16/04/2024          | 30/04/2024           |
+| Brayan          | Realizar pruebas de Entrevistas                         | Ejecutar pruebas funcionales y de rendimiento para asegurar el correcto funcionamiento de las entrevistas con candidatos. | 15 horas                      | 16/04/2024          | 30/04/2024           |
+| Oscar           | Ajustes finales en Evaluaciones Curriculares            | Revisar y corregir detalles finales del sistema de evaluaciones curriculares antes de la entrega.                         | 10 horas                      | 16/04/2024          | 30/04/2024           |
+| Oscar           | Ajustes finales en Entrevistas                          | Revisar y corregir detalles finales del sistema de gestión de entrevistas antes de la entrega.                             | 10 horas                      | 16/04/2024          | 30/04/2024           |
+
